@@ -1,0 +1,104 @@
+* {
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    text-align: center;
+    border-bottom: 2px solid black;
+    padding-bottom: 10px;
+    font-style: italic;
+    color: #109E97;
+}
+
+h2 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 13px;
+    line-height: 20px;
+}
+
+.book-price {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: #008000;
+    font-size: 17px;
+}
+
+span {
+    margin-left: 10px;
+    font-size: 10px;
+    color: #FF0000;
+    margin-left: 24px;
+}
+
+.book-content {
+    color: white;
+    text-align: center;
+    background-color: black;
+    width: 1503px;
+    height: 180px;
+    padding-top: 15px;
+}
+
+table {
+    border: 1px solid black;
+    width: 1503px;
+    height: 180px;
+
+}
+
+.comments {
+    padding-left: 100px;
+    padding-top: 50px;
+}
+
+.comm {
+    padding-left: 100px;
+    font-size: larger;
+
+}
+
+.fullname {
+    padding-left: 100px;
+}
+
+.read {
+    margin-left: 50px;
+}
+
+
+.lang {
+    background-color: #DDDDDD;
+    width: 93px;
+}
+
+.write-comm {
+    margin-left: 100px;
+}
+
+.box-comm {
+    margin-left: 10px;
+}
+
+button {
+    margin-left: 87px;
+    color: #000000;
+    background-color: #109E97;
+    width: 80px;
+}
+
+.links-list {
+    margin-left: 100px;
+    padding-bottom: 30px;
+}
+
+.foot-bottom {
+    text-align: center;
+    background-color: #109E97;
+    color: #fff;
+    display: block;
+    width: 1503px;
+    height: 70px;
+}
+.the-end{
+    padding-top: 25px;
+}

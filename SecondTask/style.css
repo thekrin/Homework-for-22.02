@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+img {
+    width: 300px;
+    height: 280px;
+}
+
+.card {
+    border: 1px solid #c8c8c8;
+    width: 301px;
+    margin: 35px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.card-i {
+    padding: 13px;
+    border-bottom: 1px solid #c8c8c8;
+}
+
+.card-p {
+    padding: 13px;
+    border-bottom: 1px solid #c8c8c8;
+}
+
+.card-title {
+    margin-bottom: 15px;
+}
+
+a {
+    text-decoration: none;
+    color: rgb(255, 31, 24);
+    margin-right: 35px;
+}
+
